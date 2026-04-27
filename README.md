@@ -1,0 +1,1 @@
+**Deployed link**: https://fastapi-todo-app-project.onrender.com/
